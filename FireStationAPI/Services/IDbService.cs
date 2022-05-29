@@ -1,8 +1,10 @@
 using FireStationAPI.Dto;
+using FireStationAPI.Responses;
 
 namespace FireStationAPI.Services;
 
 public interface IDbService
 {
-    Task<ActionDto> getActionByIdAsync(int idAction);
+    Task<Response<ActionDto>> GetActionByIdAsync(int idAction);
+    Task<Response<object>> AddFiretruckToActionAsync(AddFiretruckToActionDto dto);
 }
