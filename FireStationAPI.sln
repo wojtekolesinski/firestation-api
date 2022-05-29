@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FireStationAPI", "FireStationAPI\FireStationAPI.csproj", "{9A1F0699-9877-44F5-BAF8-79A97AF7E0BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A1F0699-9877-44F5-BAF8-79A97AF7E0BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A1F0699-9877-44F5-BAF8-79A97AF7E0BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A1F0699-9877-44F5-BAF8-79A97AF7E0BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A1F0699-9877-44F5-BAF8-79A97AF7E0BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
